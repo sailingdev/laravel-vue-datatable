@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/jamesdordoy/Laravel-Vue-Datatable.svg?branch=master)](https://travis-ci.org/jamesdordoy/Laravel-Vue-Datatable) [![npm](https://img.shields.io/npm/v/laravel-vue-datatable.svg)](https://www.npmjs.com/package/laravel-vue-datatable) [![Downloads](https://img.shields.io/npm/dt/laravel-vue-datatable.svg)](https://www.npmjs.com/package/laravel-vue-datatable)
 
 # Laravel Vue Datatable
 A Vue.js datatable component for Laravel that works with Bootstrap & Tailwind by default.
@@ -10,15 +9,10 @@ A Vue.js datatable component for Laravel that works with Bootstrap & Tailwind by
 * [Bootstrap](http://getbootstrap.com/) 4 (Optional)
 * [Tailwind](https://tailwindcss.com/) 1.* (Optional)
 
-## Demo & Docs
-
-See [https://jamesdordoy.github.io/laravel-vue-datatable/](https://jamesdordoy.github.io/laravel-vue-datatable/)
 
 ## Example
 ![Image description](https://www.jamesdordoy.co.uk/images/projects/bootstrap-datatable.png?a=a)
 
-## Laravel Package Installation
-See details [https://github.com/jamesdordoy/Laravel-Vue-Datatable_Laravel-Package](https://github.com/jamesdordoy/Laravel-Vue-Datatable_Laravel-Package)
 
 ## Component Installation
 
@@ -149,11 +143,6 @@ export default {
 If updates have been made to your dataset and you need to reload the table, you can attach a [ref](https://vuejs.org/v2/api/#vm-refs) to the table. Once the Vue.JS reference is attached, you are able to access the underlining methods of the component including the getData method.
 
 Alternatively, if you have custom filters applied and you would prefered they are retained, any adjustment to the url the table uses as a prop will reload the table.
-
-
-## Further Examples
-
-See [https://jamesdordoy.github.io/laravel-vue-datatable/](https://jamesdordoy.github.io/laravel-vue-datatable/) for more examples.
 
 ## Development
 
