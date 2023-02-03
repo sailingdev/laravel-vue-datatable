@@ -1,6 +1,6 @@
 
 # Laravel Vue Datatable
-A Vue.js datatable component for Laravel that works with Bootstrap & Tailwind by default.
+A Vue.js datatable component for Laravel that works with Bootstrap & Tailwind CSS by default.
 
 ## Requirements
 
